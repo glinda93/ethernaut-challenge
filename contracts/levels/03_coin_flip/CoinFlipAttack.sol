@@ -6,9 +6,10 @@ import "./CoinFlip.sol";
 contract CoinFlipAttack {
     using SafeMath for uint256;
 
-    CoinFlip victim;
-    uint256 lastHash;
-    uint256 FACTOR =
+    CoinFlip internal victim;
+    uint256 internal lastHash;
+    // solhint-disable-next-line var-name-mixedcase
+    uint256 internal FACTOR =
         57896044618658097711785492504343953926634992332820282019728792003956564819968;
 
     constructor(address victimAddr) {

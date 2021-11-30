@@ -43,6 +43,7 @@ contract CoinFlip {
     }
   }
 }
+
 ```
 
 ## Level author:
