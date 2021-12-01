@@ -2,3 +2,4 @@ node_modules
 contracts/levels/01_fallback/Fallback.sol
 contracts/levels/02_fallout/Fallout.sol
 contracts/levels/03_coin_flip/CoinFlip.sol
+contracts/levels/04_telephone/Telephone.sol
