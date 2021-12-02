@@ -4,3 +4,4 @@ contracts/levels/02_fallout/Fallout.sol
 contracts/levels/03_coin_flip/CoinFlip.sol
 contracts/levels/04_telephone/Telephone.sol
 contracts/levels/05_token/Token.sol
+contracts/levels/06_delegation/Delegate.sol
